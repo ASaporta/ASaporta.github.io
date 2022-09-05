@@ -57,7 +57,6 @@
   <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%} {%- unless site.footer_fixed -%}sticky-bottom-footer{%- endunless -%}">
 
     <!-- Header -->
-    {%- include header.html %}
 
     <!-- Content -->
     <div class="post distill">
@@ -102,7 +101,7 @@
     {%- include footer.html %}
 
     <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
-    
+
     {% include scripts/bootstrap.html %}
     {% include scripts/analytics.html %}
   </body>
