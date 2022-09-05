@@ -27,4 +27,4 @@ I’m a PhD candidate in Computer Science at the Courant Institute at NYU workin
 
 Before joining NYU, I worked on research on Apple’s Health AI team and in Andrew Ng’s [Stanford Machine Learning Group](https://stanfordmlgroup.github.io/). In a previous life, I was Anna Wintour’s executive assistant at Vogue (remember The Devil Wears Prada?), and I’ve held engineering and product roles across both big tech (Apple, Amazon) and start-ups (SeatGeek, Common).
 
-I have an MBA from the Stanford Graduate School of Business, an MS in Computer Science from Stanford University, and a BA in Comparative Literature from Yale University. I was born and raised in Brooklyn, and am half-Cuban and half-Greek..
+I have an MBA from the Stanford Graduate School of Business, an MS in Computer Science from Stanford University, and a BA in Comparative Literature from Yale University. I was born and raised in Brooklyn, and am half-Cuban and half-Greek.
