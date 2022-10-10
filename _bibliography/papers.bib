@@ -1,17 +1,15 @@
 ---
 ---
 
-@article{Saporta2021.02.28.21252634,
+@article{Saporta2022NMI,
   author={Saporta*, Adriel and Gui*, Xiaotong and Agrawal*, Ashwin and Pareek, Anuj and Truong, Steven QH and Nguyen, Chanh DT and Ngo, Van-Doan and Seekins, Jayne and Blankenberg, Francis G. and Ng, Andrew Y. and Lungren, Matthew P. and Rajpurkar, Pranav},
   title = {Benchmarking saliency methods for chest X-ray interpretation},
-  elocation-id = {2021.02.28.21252634},
   year = {2022},
-  doi = {10.1101/2021.02.28.21252634},
-  publisher = {Cold Spring Harbor Laboratory Press},
-  html = {https://www.medrxiv.org/content/early/2022/08/08/2021.02.28.21252634},
-  pdf = {https://www.medrxiv.org/content/early/2022/08/08/2021.02.28.21252634.full.pdf},
+  doi = {10.1038/s42256-022-00536-x},
+  html = {https://www.nature.com/articles/s42256-022-00536-x},
+  pdf = {chexlocalize.pdf},
   code = {https://github.com/rajpurkarlab/cheXlocalize},
-  journal = {medRxiv},
+  journal = {Nature Machine Intelligence},
   abstract = {Saliency methods, which {\textquotedblleft}explain{\textquotedblright} deep neural networks by producing heat maps that highlight the areas of the medical image that influence model prediction, are often presented to clinicians as an aid in diagnostic decision-making. Although many saliency methods have been proposed for medical imaging interpretation, rigorous investigation of the accuracy and reliability of these strategies is necessary before they are integrated into the clinical setting. In this work, we quantitatively evaluate seven saliency methods{\textemdash}including Grad-CAM, Grad-CAM++, and Integrated Gradients{\textemdash}across multiple neural network architectures using two evaluation metrics. We establish the first human benchmark for chest X-ray segmentation in a multilabel classification set up, and examine under what clinical conditions saliency maps might be more prone to failure in localizing important pathologies compared to a human expert benchmark. We find that (i) while Grad-CAM generally localized pathologies better than the other evaluated saliency methods, all seven performed significantly worse compared with the human benchmark; (ii) the gap in localization performance between Grad-CAM and the human benchmark was largest for pathologies that were smaller in size and had shapes that were more complex; (iii) model confidence was positively correlated with Grad-CAM localization performance. While it is difficult to know whether poor localization performance is attributable to the model or to the saliency method, our work demonstrates that several important limitations of saliency methods must be addressed before we can rely on them for deep learning explainability in medical imaging.},
   preview={chexlocalize.png},
   selected={true}
