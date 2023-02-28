@@ -122,7 +122,7 @@
           {%- if entry.award -%}
 	    {%- capture entryaward -%}{{" ("}}{{entry.award}}{{")"}}{%- endcapture -%}
           {%- endif -%}
-          {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+	  {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{{entryaward}}{%- endcapture -%}
           <div class="periodical">
             {{ periodical | strip }}
           </div>
