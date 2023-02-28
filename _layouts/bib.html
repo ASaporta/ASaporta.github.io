@@ -120,7 +120,7 @@
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.award -%}
-	    {%- capture entryaward -%}{{" ("}}{{entry.award}}{{")"}}{%- endcapture -%}
+	    {%- capture entryaward -%}{{ " " }}{{entry.award}}{%- endcapture -%}
           {%- endif -%}
 	  {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{{entryaward}}{%- endcapture -%}
           <div class="periodical">
