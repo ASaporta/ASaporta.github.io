@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 podcast: true # includes podcast embedding
 ---
 
-I’m a PhD candidate in Computer Science at the Courant Institute at NYU working on representation learning and AI for health, and advised by [Rajesh Ranganath](https://rajesh-lab.github.io/). I’m a [DeepMind Scholar](https://www.deepmind.com/scholarships) and an advisor to [alphaXiv](https://alphaxiv.org/). I'm also a [Shakti VC Fellow](https://shaktivc.com/) and co-hosted [The AI Health Podcast](https://podcasts.apple.com/us/podcast/the-ai-health-podcast/id1542731019) with [Pranav Rajpurkar](https://rajpurkar.github.io/).
+I’m a PhD candidate in Computer Science at the Courant Institute at NYU working on multimodal representation learning and AI for health, and advised by [Rajesh Ranganath](https://rajesh-lab.github.io/). I’m a [DeepMind Scholar](https://www.deepmind.com/scholarships) and an advisor to [alphaXiv](https://alphaxiv.org/). I'm also a [Shakti VC Fellow](https://shaktivc.com/) and co-hosted [The AI Health Podcast](https://podcasts.apple.com/us/podcast/the-ai-health-podcast/id1542731019) with [Pranav Rajpurkar](https://rajpurkar.github.io/).
 
 Before joining NYU, I worked on research on Apple’s Health AI team and in Andrew Ng’s [Stanford Machine Learning Group](https://stanfordmlgroup.github.io/). In a previous life, I was Anna Wintour’s executive assistant at Vogue (remember The Devil Wears Prada?), and I’ve held engineering and product roles across both big tech (Apple, Amazon) and start-ups (SeatGeek, Common).
 
